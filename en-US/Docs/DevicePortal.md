@@ -3,7 +3,7 @@ layout: docs
 title: Windows Device Portal
 description: Connect to, control, configure, and get advanced diagnostics about your machine from the web
 keyword: windows iot, remote, diagnostics
-permalink: /en-US/Docs/DevicePortal.htm
+permalink: /en-US/Docs/Tools/DevicePortal.htm
 lang: en-US
 ---
 
